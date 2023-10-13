@@ -1,4 +1,4 @@
-# **Week One Project: Churn Prediction for Sprint**
+# **Week Two Project: Linear and Random Forest Regression
 Let’s say we want to build a model to predict booking prices on Airbnb. Between linear regression and random forest regression, which model would perform better and why?
 
 <u>What is Linear Regression?</u>
